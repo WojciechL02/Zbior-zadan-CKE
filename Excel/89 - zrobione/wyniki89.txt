@@ -1,0 +1,32 @@
+1.
+Bialaszewski	Karolina
+Cicherski	Franciszek
+Florek	Jan
+Kaminski	Emilia
+Krol	Sandra
+
+2.
+55.6
+Sochacka	Inka
+Broszkow	Zofia
+Murczynska	Laura
+Majtas	Lucja
+Odya	Kacper
+Sokolnicka	Inga
+
+3.
+Grzelecki	Oliwier
+Wojcicki	Aleks
+Rembiewski	Jakub
+Przytula	Jakub
+
+4.
+	pol	mat	biol	geo
+dop	95	110	101	112
+dost	96	106	105	97
+db	101	100	94	96
+bdb	108	97	110	97
+cel	114	101	104	112
+
+5.
+300

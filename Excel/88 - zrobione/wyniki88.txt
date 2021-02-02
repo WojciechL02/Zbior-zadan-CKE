@@ -1,0 +1,19 @@
+1.
+sprzedano: 592
+24 grudnia pozostało: 8
+
+2.
+(wykres)
+
+3.
+11 grudnia
+
+4.
+dni dostaw:
+1,2,3,4,5,6,7,8,9,10,11,13,15,17,19,21,23
+liczba dostaw: 17
+sprzedane: 819
+
+5.
+dostawy po 35 choinek
+24 grudnia pozostanie: 21

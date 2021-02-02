@@ -1,0 +1,44 @@
+1.
+913
+
+2.
+kolonia	10
+miasto	3
+osada	47
+osada lesna	12
+przysiolek	1
+wies	148
+
+3.
+bielski	podlaskie
+bielski	slaskie
+brzeski	malopolskie
+brzeski	opolskie
+grodziski	mazowieckie
+grodziski	wielkopolskie
+krosnienski	lubuskie
+krosnienski	podkarpackie
+nowodworski	mazowieckie
+nowodworski	pomorskie
+opolski	lubelskie
+opolski	opolskie
+ostrowski	mazowieckie
+ostrowski	wielkopolskie
+sredzki	dolnoslaskie
+sredzki	wielkopolskie
+swidnicki	dolnoslaskie
+swidnicki	lubelskie
+tomaszowski	lodzkie
+tomaszowski	lubelskie
+
+4.
+92
+
+5.
+dolnoslaskie	jaworski	Jawor
+dolnoslaskie	Jelenia Gora	Jelenia Gora
+dolnoslaskie	walbrzyski	Jedlina-Zdroj
+mazowieckie	otwocki	Jozefow
+pomorskie	pucki	Jastarnia
+slaskie	Jastrzebie-Zdroj	Jastrzebie-Zdroj
+slaskie	Jaworzno	Jaworzno

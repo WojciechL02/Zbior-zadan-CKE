@@ -1,0 +1,14 @@
+69.1
+Iloœæ gatunków: 207
+Najwiêcej dla jednego gatunku: 20
+
+69.2
+8
+
+69.3
+Najwiêksza iloœæ genów: 11
+D³ugoœæ najd³u¿szego genu: 189
+
+69.4
+Liczba odpornych: 249
+Liczba silnie odpornych: 187

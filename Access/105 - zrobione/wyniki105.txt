@@ -1,0 +1,39 @@
+1.
+liczba faktur: 540
+największa faktura: 1250
+liczba k z kilkoma fakturami: 33
+
+2.
+Bielawa		5
+Jelenia Gora	5
+Olawa		1
+Olesnica	1
+Sobotka		8
+Trzebnica	4
+Walbrzych	5
+Wolow		13
+Wroclaw		33
+Zlotoryja	3
+
+3.
+Nazwisko	Imie	Nazwa	Liczba_sadzonek
+Mezynska	Lena	Symphytum x uplandicum Axmister s Gold	14
+Gryczka	Nina	Symphytum grandiflorum  Goldsmith	12
+Gorska	Oliwia	Symphytum grandiflorum  Goldsmith	14
+Boleski	Tymon	Symphytum x uplandicum Axmister s Gold	12
+Gondek	Oliwia	Symphytum grandiflorum  Goldsmith	12
+Jezierska	Nadia	Symphytum x uplandicum Axmister s Gold	12
+Szubarczyk	Dawid	Symphytum grandiflorum  Goldsmith	11
+Bzówka	Szymon	Symphytum x uplandicum Axmister s Gold	13
+
+4.
+Carex Comans
+Echinacea Tomato Soup
+Echinacea Black Beauty
+
+5.
+10x10x20	85
+11x11x11	355
+13x13x13	96
+9x9x12		429
+9x9x9		1051

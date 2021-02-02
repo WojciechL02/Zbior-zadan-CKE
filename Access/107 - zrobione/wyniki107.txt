@@ -1,0 +1,42 @@
+1.
+Warszawa	83
+Dusseldorf	78
+Warszawa Modlin	68
+
+2.
+Lipinski	Artur		16
+Wilkonska	Marta		18
+Wronikowska	Magdalena	19
+Krankowska	Joanna		16
+Wirowski	Marcin		16
+
+3.
+miesiac	liczba biletów
+4	72
+5	87
+6	95
+
+4.
+Anna	Gumowska
+Amelia	Hanke
+Waldemar	Kowal
+Jan	Krupa
+Mariola	Krupa
+Jakub	Kupinski
+Artur	Lipinski
+Krystyna	Lis
+Beata	Pawlikowska
+Monika	Sibilska
+Jowita	Tobera
+Agnieszka	Waruszewska
+Agata	Wilczek
+Marcin	Wirowski
+Sylwester	Wojtas
+Monika	Zawadzka
+
+5.
+21	Bolonia
+99	Barcelona
+316	Warszawa
+522	Liverpool
+987	Oslo Torp

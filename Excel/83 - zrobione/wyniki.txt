@@ -1,0 +1,15 @@
+1.
+Z	W
+118.07	43.46
+
+2.
+Z	W
+53	98
+
+3.
+(wykres)
+
+4.
+	 zające	wilki
+minimum	 80.65	28
+maksimum 123.39	54.21

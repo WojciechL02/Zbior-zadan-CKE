@@ -1,0 +1,28 @@
+1.
+LPP	7485.84
+WAWEL	960.06
+PZU	481.56
+
+2.
+MILKILAND
+27.85%
+
+3.
+a)
+krajowych: 418
+zagranicznych: 52
+b)
+krajowe: 2427046811
+zagraniczne: 29736190
+udział PL: 98.79%
+
+4.
+	M		 WIG
+21	281091498490.00	 50987.13
+22	284219170040.00	 51554.46
+23	285297602760.00	 51750.07
+
+5.
+kup	53
+sprzedaj	20
+obserwuj	397

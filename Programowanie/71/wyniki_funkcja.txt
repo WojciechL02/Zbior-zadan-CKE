@@ -1,0 +1,6 @@
+71.1
+2.09032
+
+71.2
+Najwiêksza wartoœæ: 3.06495
+Dla argumentu: 4.092

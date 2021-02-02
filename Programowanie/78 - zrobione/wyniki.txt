@@ -1,0 +1,20 @@
+78.1
+(232, [12, 94, 94, 57, 96, 115, 51, 90], 'MQQFSLZM')
+
+78.2
+['MQQFSLZM', 'WWXRFKEC', 'UAQFAKQN', 'WVTFWMLI', 'WMXQBVTU', 'IRCEIIDN', 'DLGULFST', 'UIZVEUSE', 'DMWHUXTH', 'UFHRHSXM', 'TFUKGFXW']
+
+78.3
+1 MQQFSLZM wiarygodne
+2 WWXRFKEC zmienione
+3 UAQFAKQN wiarygodne
+4 WVTFWMLI wiarygodne
+5 WMXQBVTU zmienione
+6 IRCEIIDN zmienione
+7 DLGULFST zmienione
+8 UIZVEUSE wiarygodne
+9 DMWHUXTH wiarygodne
+10 UFHRHSXM zmienione
+11 TFUKGFXW wiarygodne
+
+1 3 4 8 9 11 

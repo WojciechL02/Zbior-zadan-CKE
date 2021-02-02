@@ -1,0 +1,44 @@
+1.
+Rusztowanie aluminiowe wys. 5m	28
+
+2.
+JCK343973	1750
+
+3.
+Marcin		Budzisz
+Wojciech	Dudek
+Izabela		Kusz
+
+4.
+68
+
+5.
+a)
+miesiac	przychód
+1	43307
+2	35441
+3	46181
+4	54162
+5	81019
+6	95315
+7	111173
+8	96436
+9	101491
+10	66041
+11	47754
+12	36435
+
+b)
+miesiac	transport
+1	850
+2	900
+3	1200
+4	1300
+5	1950
+6	1600
+7	2450
+8	2600
+9	1800
+10	850
+11	700
+12	900

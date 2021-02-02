@@ -1,0 +1,38 @@
+1.
+bogatka
+sroka
+myszolow
+
+2.
+5	2
+6	9
+7	3
+8	12
+9	2
+
+3.
+nazwa		liczebność
+gawron		100
+kawka		238
+kruk		9
+wrona siwa	105
+
+4.
+a)
+Tadzino	18/07/2014 05:00:00	960	13
+b)
+Jezioro Zarnowieckie	03/12/2014 09:00:00	143.875
+
+5.
+a)
+zuraw	1624
+b)
+powiat		brak informacji	gniazduje	leci	odpoczywa	zeruje
+chojnicki								2
+gdanski		7				35	3		8
+kartuski					1	6	
+koscierski					120		
+malborski	5						
+pucki		111				580			90
+starogardzki	307					
+wejherowski			22		243	17		67
